@@ -8,7 +8,7 @@
 
 ## 🔍 Overview
 
-The Scrum Meeting Story Estimator is designed to streamline the story point estimation process in agile teams. It provides a digital alternative to physical planning poker cards, allowing distributed teams to collaborate effectively during sprint planning sessions.
+The Scrum Meeting Story Estimator is designed to streamline  the story point estimation process in agile teams. It provides a digital alternative to physical planning poker cards, allowing distributed teams to collaborate effectively during sprint planning sessions.
 
 <img src="public/image.png" alt="drawing" style="width:300px;"/>
 
